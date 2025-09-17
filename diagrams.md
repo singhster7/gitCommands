@@ -21,9 +21,6 @@
 │ Pricing API  │                │ Inventory API│
 │ (External)   │                │ (External)   │
 └───────┬──────┘                └───────┬──────┘
-        │                               │
-        ▼                               ▼
-   (unit price)                     (reserve stock)
 
 
                  ┌─────────────────────┐
